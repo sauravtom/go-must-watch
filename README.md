@@ -1,4 +1,4 @@
-# Must-watch videos about Go
+# Must-watch videos about Go Lang
 
 This is a list of must-watch videos related to Python. Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
