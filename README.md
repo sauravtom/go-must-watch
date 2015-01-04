@@ -16,6 +16,8 @@ This is a list of must-watch videos related to Python. Inspired by [js-must-watc
 + [Get Started with Go](https://www.youtube.com/watch?v=2KmHtgtEZ1s)
 + [Why learn go](https://www.youtube.com/watch?v=FTl0tl9BGdc)
 
-
+#GO video on youtube
 https://plus.google.com/+golang/videos
+
+#Videos from Talks and Conferences
 https://github.com/golang/go/wiki/GoTalks
