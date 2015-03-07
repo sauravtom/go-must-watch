@@ -1,6 +1,6 @@
 # Must-watch videos about Go Lang
 
-This is a list of must-watch videos related to Python. Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch)
+This is a list of must-watch videos related to GO programming language. Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
 #2014
 
@@ -16,7 +16,7 @@ This is a list of must-watch videos related to Python. Inspired by [js-must-watc
 + [Get Started with Go](https://www.youtube.com/watch?v=2KmHtgtEZ1s)
 + [Why learn go](https://www.youtube.com/watch?v=FTl0tl9BGdc)
 
-#GO video on youtube
+#GO videos on youtube
 https://plus.google.com/+golang/videos
 
 #Videos from Talks and Conferences
